@@ -1,6 +1,7 @@
-///Em Loeber association between military expenditure and generalized trust
+///Emma Loeber association between military expenditure and generalized trust
 ///WB, UCDP conflict, and WVS datasets
 
+*to replicate the analysis download the datasets and adjust the file location script
 cd "/Users/macbook/Documents/Stata/Datasets"
 
 *WB dataset location
